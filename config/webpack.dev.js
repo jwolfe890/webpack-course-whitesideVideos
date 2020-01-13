@@ -43,6 +43,18 @@ module.exports = {
             loader: "html-loader"
           }
         ]
+      },
+      {
+        test: /\.jpg$/,
+        use: [
+          {
+            loader: "file-loader",
+            options: {
+              name: "[name].[ext]",
+              outputPath: "imgs"
+            }
+          }
+        ]
       }
     ]
   }

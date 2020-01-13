@@ -125,11 +125,10 @@ eval("\n\nvar isOldIE = function isOldIE() {\n  var memo;\n  return function mem
 /*!************************!*\
   !*** ./src/index.html ***!
   \************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports) {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"index.html\");\n\n//# sourceURL=webpack:///./src/index.html?");
+eval("throw new Error(\"Module build failed (from ./node_modules/extract-loader/lib/extractLoader.js):\\n/Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/src/images/littleAlien.jpg:1\\nexport default __webpack_public_path__ + \\\"imgs/littleAlien.jpg\\\";\\n^^^^^^\\n\\nSyntaxError: Unexpected token export\\n    at new Script (vm.js:83:7)\\n    at /Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/extract-loader/lib/extractLoader.js:81:28\\n    at Generator.next (<anonymous>)\\n    at step (/Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)\\n    at /Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/babel-runtime/helpers/asyncToGenerator.js:35:14\\n    at new Promise (<anonymous>)\\n    at new F (/Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/core-js/library/modules/_export.js:36:28)\\n    at /Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/babel-runtime/helpers/asyncToGenerator.js:14:12\\n    at evalModule (/Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/extract-loader/lib/extractLoader.js:150:63)\\n    at /Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/extract-loader/lib/extractLoader.js:138:28\\n    at Generator.next (<anonymous>)\\n    at step (/Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)\\n    at /Users/johnwolfe/Development/serverSideRenderingExperiments/webpack-course-whitesideVideos/node_modules/babel-runtime/helpers/asyncToGenerator.js:28:13\\n    at process._tickCallback (internal/process/next_tick.js:68:7)\");\n\n//# sourceURL=webpack:///./src/index.html?");
 
 /***/ }),
 
